@@ -102,7 +102,6 @@
   "requiresCompatibilities": [
     "EC2"
   ],
-  "networkMode": "awsvpc",
   "runtimePlatform": null,
   "cpu": "256",
   "revision": 3,
