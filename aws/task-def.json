@@ -61,8 +61,7 @@
   "memory": "512",
   "taskRoleArn": null,
   "compatibilities": [
-    "EC2",
-    "FARGATE"
+    "EC2"
   ],
   "taskDefinitionArn": "arn:aws:ecs:us-west-2:353102671159:task-definition/first-run-task-definition:3",
   "family": "first-run-task-definition",
